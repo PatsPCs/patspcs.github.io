@@ -23,6 +23,7 @@ a:hover {
 ul {
 	list-style: none;
 	text-align: center;
+	margin-bottom: 35px;
 }
 
 table {
