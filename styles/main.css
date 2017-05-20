@@ -65,6 +65,7 @@ table {
 	margin-bottom: -2px;
 	border-width: 2px;
 	border-style: solid;
+	padding: 5px;
 }
 
 .list-home th {
@@ -86,25 +87,25 @@ table {
 .links {
 	padding: 5px;
 	text-align: center;
-	background-color: rgb(66, 75, 244);
+	background-color: rgb(102, 66, 247);
 	margin-bottom: 15px;
 }
 
 .links a {
 	margin-left: 10px;
 	margin-right: 10px;
+	color: white;
 }
 
 /* Model list styling */
 
 .model-list {
-	float: left;
-	left: 45%;
-	position: relative;
+	margin: auto;
+	width: 500px;
+	text-align: center;
 }
 
 .model-list h3 {
-	text-align: center;
 	margin-bottom: 5px;
 }
 
@@ -164,4 +165,15 @@ table {
 .hall-of-fame th, td {
 	width: 150px;
 	border-width: 2px;
+}
+
+.hof-tutorial h4 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.hof-tutorial {
+	width: 280px;
+	margin: auto;
 }
