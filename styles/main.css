@@ -17,6 +17,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
+	font-style: italic;
 	color: rgb(66, 238, 244);
 }
 
@@ -40,7 +41,6 @@ table {
 .header {
 	text-align: center;
 	padding: 25px;
-	margin-bottom: 10px;
 	background-color: rgb(66, 95, 244);
 }
 
@@ -63,8 +63,11 @@ table {
 	border-width: 2px;
 	border-style: solid;
 }
-
+.list-home th {
+	border: none;
+}
 .list-home td {
+	border: none;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 5px;
@@ -72,4 +75,49 @@ table {
 
 .list-home h2 {
 	padding-bottom: 10px;
+}
+
+.links {
+	padding: 5px;
+	text-align: center;
+	background-color: rgb(66, 75, 244);
+	margin-bottom: 15px;
+}
+
+.links a {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* About Page Styling */
+
+.about {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.contact table {
+	border-collapse: collapse;
+}
+
+.contact table, th, td {
+    border: 1px solid black;
+}
+
+.contact th {
+	height: 40px;
+	width: 150px;
+	background-color: rgb(66, 95, 244);
+}
+
+.contact td {
+	height: 25px;
+	padding: 10px;
+}
+
+/* Donate Page Styling */
+
+.donate form {
+	margin-top: 10px;
+	text-align: center;
 }
