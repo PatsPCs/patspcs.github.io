@@ -7,7 +7,7 @@ Twitter: [@PaleSlavicMan](https://twitter.com/PaleSlavicMan)
 
 ## Donate
 If you'd like to be generous and donate, please donate through PayPal:
-[Donate Page](https://patspcs.github.io/donate.html)
+[Donation Page](https://patspcs.github.io/donate.html)
 
 ## Built With
 * HTML
@@ -15,4 +15,4 @@ If you'd like to be generous and donate, please donate through PayPal:
 * Very little Javascript
 
 ## Credits
-* [Update Your Footer](http://updateyourfooter.com/) for the auto-dating footer
+* [Update Your Footer](http://updateyourfooter.com/) for the auto-updating footer
